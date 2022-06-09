@@ -1,0 +1,11 @@
+be30fccebaaf4f44b5b245b1dac1ebfa
+
+ C:\Users\PALLAKKI\.jenkins\secrets\initialAdminPassword
+
+user name: pallakki
+Password: Vini@123
+Email: vinayakpallakki@gmail.com
+
+host name : http://localhost:8080/
+
+java -jar C:\Users\PALLAKKI\Downloads\jenkins.war
