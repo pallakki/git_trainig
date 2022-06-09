@@ -10,3 +10,4 @@ host name : http://localhost:8080/
 
 java -jar C:\Users\PALLAKKI\Downloads\jenkins.war
 pal
+binini
